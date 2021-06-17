@@ -1,0 +1,5 @@
+keras
+tensorflow-cpu
+scikit-learn
+opencv-python
+joblib
